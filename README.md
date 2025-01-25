@@ -32,7 +32,7 @@ To learn more about Next.js, take a look at the following resources:
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://day-3-sage.vercel.app/) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use the [Demo day-3](https://day-3-sage.vercel.app/) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
